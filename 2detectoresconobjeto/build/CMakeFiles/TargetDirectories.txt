@@ -1,0 +1,4 @@
+/home/rafael/Escritorio/Geant4-Tutorial/2detectoresconobjeto/build/CMakeFiles/sim.dir
+/home/rafael/Escritorio/Geant4-Tutorial/2detectoresconobjeto/build/CMakeFiles/Simulation.dir
+/home/rafael/Escritorio/Geant4-Tutorial/2detectoresconobjeto/build/CMakeFiles/edit_cache.dir
+/home/rafael/Escritorio/Geant4-Tutorial/2detectoresconobjeto/build/CMakeFiles/rebuild_cache.dir
