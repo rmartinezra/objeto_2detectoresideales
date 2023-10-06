@@ -1,0 +1,1 @@
+# objeto_2detectoresideales
